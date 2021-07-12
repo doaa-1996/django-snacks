@@ -1,2 +1,1 @@
-Pull request: https://github.com/doaa-1996/django-snacks/pull/3
-
+Pull request: https://github.com/doaa-1996/django-snacks/pull/5
